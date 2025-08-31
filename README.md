@@ -37,4 +37,4 @@ Beetle focuses on **simplicity, security, and usability**:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Beetle.git
+git clone https://github.com/BeetleSeed/Beetle.git
